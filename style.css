@@ -56,12 +56,6 @@ a:hover{
     color: red;
     border: 1px solid red;
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Baloo Da 2', cursive;
-}
 
 .contact-div{
     width: 100%;
